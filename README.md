@@ -1,4 +1,4 @@
-Full Stack Developer [ Mearn Stack ] <br/>
+Full Stack Developer [ MERN Stack ] <br/>
 Express | MongoDb | React | React Native | TypeScript | Docker | Socket.IO </br>
 Neovim | Arch Linux | Tmux | Dwm </br>
 
