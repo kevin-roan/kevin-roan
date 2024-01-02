@@ -1,6 +1,6 @@
-Full Stack Developer [ Mearn Stack ]
-Express | MongoDb | React | React Native | TypeScript | Docker | Socket.IO 
-Neovim | Arch Linux | Tmux | Dwm
+Full Stack Developer [ Mearn Stack ] <br/>
+Express | MongoDb | React | React Native | TypeScript | Docker | Socket.IO </br>
+Neovim | Arch Linux | Tmux | Dwm </br>
 
 Inspiration : thePrimeagen;
 
