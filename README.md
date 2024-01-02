@@ -2,7 +2,7 @@ Full Stack Developer [ MERN Stack ] <br/>
 Express | MongoDb | React | React Native | TypeScript | Docker | Socket.IO </br>
 Neovim | Arch Linux | Tmux | Dwm </br>
 
-Inspiration : thePrimeagen;
+Inspiration : thePrimeagen; <br/>
 "I believe more in my code than in God."
 
 - Gitlab: [https://gitlab.com/kevinroan/] 
