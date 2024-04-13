@@ -1,9 +1,9 @@
-Full Stack Developer [ MERN Stack ] <br/>
+Indie Developer <br/>
+Mobile && Web;
 Express | MongoDb | React | React Native | TypeScript | Docker | Socket.IO </br>
 Neovim | Arch Linux | Tmux | Dwm </br>
 
-Inspiration : thePrimeagen; <br/>
-"I believe more in my code than in God."
+Inspiration : Takuya Matsuyama; <br/>
 
 - Gitlab: [https://gitlab.com/kevinroan/] 
 - LinkedIn: [https://linkedin.com/in/kevinroan]
