@@ -1,6 +1,5 @@
-Indie Developer <br/>
-Mobile && Web;
-Express | MongoDb | React | React Native | TypeScript | Docker | Socket.IO </br>
+Indie Developer --- 
+Express | MongoDb | React | React Native | Expo | TypeScript | Docker | Socket.IO | Bash | AWS | Firebase
 Neovim | Arch Linux | Tmux | Dwm </br>
 
 Inspiration : Takuya Matsuyama; <br/>
