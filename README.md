@@ -1,4 +1,4 @@
-<b>Founder EasyERP </b>
+<b>Founder of EasyERP </b>
 
 
 Express | MongoDb | React | React Native | Expo | TypeScript | Docker | Socket.IO | Bash | AWS | Firebase
