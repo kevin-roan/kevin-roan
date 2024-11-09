@@ -1,4 +1,6 @@
-Indie Developer --- 
+<b>Founder EasyERP </b>
+
+
 Express | MongoDb | React | React Native | Expo | TypeScript | Docker | Socket.IO | Bash | AWS | Firebase
 Neovim | Arch Linux | Tmux | Dwm </br>
 
