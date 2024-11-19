@@ -1,4 +1,4 @@
-<b>Founder of EasyERP </b>
+> Full Stack Developer
 
 
 Express | MongoDb | React | React Native | Expo | TypeScript | Docker | Socket.IO | Bash | AWS | Firebase
