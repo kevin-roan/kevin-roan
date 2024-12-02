@@ -1,5 +1,9 @@
 > Just a Dev
+
+
 > I do Hardware Hacking, Full Stack Development as well as Mobile Applications.
+
+
 > IRC: `irc://irc.freenode.net:6667/sadkevinroan`
 
 
