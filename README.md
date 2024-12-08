@@ -4,9 +4,6 @@
 > I do Hardware Hacking, Full Stack Development as well as Mobile Applications.
 
 
-> IRC: `irc://irc.freenode.net:6667/sadkevinroan`
-
-
 Express | MongoDb | React | React Native | Expo | TypeScript | Docker | Socket.IO | Bash | AWS | Firebase
 Neovim | Arch Linux | Tmux | Dwm </br>
 
