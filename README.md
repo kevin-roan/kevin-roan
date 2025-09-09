@@ -9,8 +9,8 @@ Inspiration : Takuya Matsuyama; <br/>
 
 - Gitlab: [https://gitlab.com/kevinroan/] 
 - LinkedIn: [https://linkedin.com/in/kevinroan]
-- Portfolio: [https://kevinroan.vercel.app]
-- Blogs: [https://kevinroan-blogs.vercel.app]
+- Portfolio: [https://kevinroan.com]
+- Blogs: [https://blogs.kevinroan/com]
 - Youtube: https://www.youtube.com/@xtan-io
 
 ![](https://komarev.com/ghpvc/?username=kevin-roan)
