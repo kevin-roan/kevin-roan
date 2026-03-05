@@ -1,8 +1,7 @@
 
 > I do Hardware Hacking, Full Stack Development as well as Mobile Applications with React Native.
 
-
-Express | MongoDb | React | React Native | Expo | TypeScript | Docker | Socket.IO | Bash | AWS | Firebase
+Express | MongoDb | Psql | Prisma | React | React Native | Expo | TypeScript | Docker | Socket.IO | Bash | AWS | Firebase
 Neovim | Arch Linux | Tmux | Dwm </br>
 
 Inspiration : Takuya Matsuyama; <br/>
