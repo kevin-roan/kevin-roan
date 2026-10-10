@@ -1,3 +1,10 @@
+## Intro
+
+Creator of tesseract.kevinroan.com
+The 5th dimension of AI Sandboxes
+
+
+### About me;
 
 > I do Hardware Hacking, Full Stack Development as well as Mobile Applications with React Native.
 
