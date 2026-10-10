@@ -1,22 +1,28 @@
-## Intro
+## Introduction
 
-Creator of tesseract.kevinroan.com
-The 5th dimension of AI Sandboxes
+Creator of [Tesseract](https://tesseract.kevinroan.com) — The Fifth Dimension of AI Sandboxes.
 
+## About Me
 
-### About me;
+I work across hardware hacking, full-stack development, and mobile application development with React Native.
 
-> I do Hardware Hacking, Full Stack Development as well as Mobile Applications with React Native.
+**Technologies & Tools**
 
-Express | MongoDb | Psql | Prisma | React | React Native | Expo | TypeScript | Docker | Socket.IO | Bash | AWS | Firebase
-Neovim | Arch Linux | Tmux | Dwm </br>
+- **Backend:** Express.js, MongoDB, PostgreSQL, Prisma
+- **Frontend:** React, TypeScript
+- **Mobile:** React Native, Expo
+- **Infrastructure:** Docker, AWS, Bash
+- **Real-time & Cloud:** Socket.IO, Firebase
+- **Development Environment:** Neovim, Arch Linux, Tmux, DWM
 
-Inspiration : Takuya Matsuyama; <br/>
+**Inspiration:** Takuya Matsuyama
 
-- Gitlab: [https://gitlab.com/kevinroan/] 
-- LinkedIn: [https://linkedin.com/in/kevinroan]
-- Portfolio: [https://kevinroan.com]
-- Blogs: [https://blogs.kevinroan/com]
-- Youtube: https://www.youtube.com/@xtan-io
+## Connect With Me
 
-![](https://komarev.com/ghpvc/?username=kevin-roan)
+- **GitLab:** [gitlab.com/kevinroan](https://gitlab.com/kevinroan/)
+- **LinkedIn:** [linkedin.com/in/kevinroan](https://linkedin.com/in/kevinroan)
+- **Portfolio:** [kevinroan.com](https://kevinroan.com)
+- **Blog:** [blogs.kevinroan.com](https://blogs.kevinroan.com)
+- **YouTube:** [@xtan-io](https://www.youtube.com/@xtan-io)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kevin-roan)
